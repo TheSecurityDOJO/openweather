@@ -1,4 +1,3 @@
+This project is tested with BrowserStack.
+
 # openweather
-
-This project is tested with BrowserStack
-
