@@ -9,3 +9,5 @@ Payload windows
 
 Payload linux
 ""; cat "server.js" > ./public/out.txt;
+
+yearh baby
